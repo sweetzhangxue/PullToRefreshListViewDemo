@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PullToRefreshListViewDemo</string>
+
+    <string name="pull_to_refresh_pull_label">下拉刷新&#8230;</string>
+    <string name="pull_to_refresh_release_label">松开可以刷新&#8230;</string>
+    <string name="pull_to_refresh_refreshing_label">正在加载...&#8230;</string>
+    <string name="pull_to_refresh_from_bottom_pull_label">加载更多&#8230;</string>
+    <string name="pull_to_refresh_from_bottom_release_label">松开可以加载更多&#8230;</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">
+        @string/pull_to_refresh_refreshing_label
+    </string>
+    <string name="load_success">加载成功</string>
+    <string name="load_fail">加载失败</string>
+    <string name="load_done">没有可加载的内容了</string>
+</resources>
